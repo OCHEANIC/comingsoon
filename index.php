@@ -6,7 +6,7 @@ require path.'php/init.php';
 <html>
 	<head>
 		<title>
-			<?php echo $CONFIG['SERVERNAME']." &bull; ". strtoupper($page); ?>
+			<?php echo $CONFIG['OCHEANICGAMERZ']." &bull; ". strtoupper($page); ?>
 		</title>
 		<?php include path.'asset/includes/css.php'; ?>
 	</head>
