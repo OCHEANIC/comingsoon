@@ -35,7 +35,7 @@ if(Input::exists()){
 ?>
 <html>
 	<head>
-		<title><?php echo $CONFIG['SERVERNAME']." &bull; Register"?></title>
+		<title><?php echo $CONFIG['OCHEANICGAMERZ']." &bull; Register"?></title>
 		<?php include path.'asset/includes/css.php';?>
 	</head>
 	<body>
