@@ -4,7 +4,7 @@ define('path', '../../../');
 require path.'php/init.php';
 ?>
 <html>
-	<head><title><?php echo config::get('SERVERNAME');?> 404 &bull; Not Found</title></head>
+	<head><title><?php echo config::get('OCHEANICGAMERZ');?> 404 &bull; Not Found</title></head>
 	<body>
 		
 		<div class="main">
