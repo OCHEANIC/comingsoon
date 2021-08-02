@@ -1,0 +1,49 @@
+div.news{
+	width: 75%;
+	float: left;
+}
+div.login{
+	padding-left: 25px;
+	width: 25%;
+	float: left;
+}
+div.server-info{
+	width: 25%;
+	float: left;
+}
+div.players{
+	width: 75%
+	padding-left: 25px;
+	float: left;
+}
+div.cats{
+	width: 25%;
+	padding-left: 25px;
+	float: left;
+}
+div.forum-topic{
+	width: 75%;
+	float: left;
+}
+div.page{
+	clear:both;
+}
+.bg-image{
+	position: fixed;
+	top: 0px;
+	left:0px;
+	z-index: -100;
+	/*margin-bottom: 0px;*/
+	background-image: url(/asset/img/Home-BG.png);
+	background-repeat: repeat;
+	/*background-position: 0% 25%;
+	background-size: cover;
+	background-repeat: repeat;
+	color: white;*/
+}
+.home{
+	background: url(/asset/img/Home-BG.png) no-repeat fixed 100%;
+}
+p.white{
+	color: white;
+}
